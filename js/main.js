@@ -6,7 +6,7 @@ jQuery(document).ready(function($){
 		//change opacitySpeed if you want to change the speed of opacity reduction effect
 		opacitySpeed = 1; 
 	
-	//update this value if you change this breakpoint in the style.css file (or _layout.scss if you use SASS)
+	//update this value if you change this breakpoint in the styleZoom.css file (or _layout.scss if you use SASS)
 	var MQ = 1170;
 
 	triggerAnimation();
